@@ -1,9 +1,20 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo2cWF4dXg2OGRzOXQzdXZmb214M25jZmY2N3cyZGp4aTkwbDhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding gif">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Warda</h1>
-💻 Frontend Dev | 🎨 UI/UX Enthusiast | 🌐 Web Addict <br>🚀 I love building beautiful web apps and exploring new tech!<br>
+
+<p align="center">
+  <strong>💻 Frontend Developer</strong> &nbsp;|&nbsp;
+  <strong>🎨 UI/UX Enthusiast</strong> &nbsp;|&nbsp;
+  <strong>🌐 Web Addict</strong>
+</p>
+
+<p align="center">
+  🚀 I love crafting beautiful, interactive web apps.<br>
+  🌟 Always curious to learn and explore new technologies!
+</p>
+
 
 
 ## 🌐 Socials:
