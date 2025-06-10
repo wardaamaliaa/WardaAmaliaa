@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Warda
+<h1 align="center">Hi there 👋 I'm Warda</h1>
 💻 Frontend Dev | 🎨 UI/UX Enthusiast | 🌐 Web Addict <br>🚀 I love building beautiful web apps and exploring new tech!<br>
 
 
