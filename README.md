@@ -10,7 +10,7 @@
   <strong>🌐 Web Addict</strong>
 </p>
 
-<p align="center">
+<p>
   🚀 I love crafting beautiful, interactive web apps.<br>
   🌟 Always curious to learn and explore new technologies!
 </p>
