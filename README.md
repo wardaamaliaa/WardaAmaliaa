@@ -1,4 +1,4 @@
-![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo2cWF4dXg2OGRzOXQzdXZmb214M25jZmY2N3cyZGp4aTkwbDhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif))
+![Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo2cWF4dXg2OGRzOXQzdXZmb214M25jZmY2N3cyZGp4aTkwbDhuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif))
 
 <h1 align="center">Hi there 👋 I'm Warda</h1>
 💻 Frontend Dev | 🎨 UI/UX Enthusiast | 🌐 Web Addict <br>🚀 I love building beautiful web apps and exploring new tech!<br>
