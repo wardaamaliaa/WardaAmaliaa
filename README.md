@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif">
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding gif">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Warda</h1>
@@ -12,7 +12,11 @@
 
 <p>
   🚀 I love crafting beautiful, interactive web apps.<br>
-  🌟 Always curious to learn and explore new technologies!
+  🌟 Always curious to learn and explore new technologies!<br>
+  💡 Passionate about turning creative ideas into real, responsive websites.<br>
+  🛠️ Currently improving my skills in JavaScript, Laravel, and Tailwind CSS.<br>
+  👩‍💻 I've completed a Frontend Internship at <a href="https://mangcoding.com" target="_blank"><strong>Mangcoding</strong></a>, where I worked on real-world projects and collaborated using GitHub.<br>
+  ✨ I enjoy combining design and code to create seamless user experiences.
 </p>
 
 
