@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋 I'm Warda<br>💻 Frontend Dev | 🎨 UI/UX Enthusiast | 🌐 Web Addict <br>🚀 I love building beautiful web apps and exploring new tech!<br>
+# Hi there 👋 I'm Warda
+💻 Frontend Dev | 🎨 UI/UX Enthusiast | 🌐 Web Addict <br>🚀 I love building beautiful web apps and exploring new tech!<br>
 
 
 ## 🌐 Socials:
