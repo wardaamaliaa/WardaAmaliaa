@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding gif">
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding gif">
 </p>
 
 <h1 align="center">Hi there 👋 I'm Warda</h1>
