@@ -2,8 +2,8 @@
 
 <p>
   <strong>💻 Frontend Developer</strong> &nbsp;|&nbsp;
-  <strong>🎨 UI/UX Enthusiast</strong> &nbsp;|&nbsp;
-  <strong>🌐 Web Addict</strong>
+<!--   <strong>🎨 UI/UX Enthusiast</strong> &nbsp;|&nbsp;
+  <strong>🌐 Web Addict</strong> -->
 </p>
 
 <p>
